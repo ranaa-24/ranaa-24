@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1704147205~exp=1704147805~hmac=c372b6ed2a65add7cb5da38d3233c9ee70f4c55dc8a2396053675287f3e5298e)]
+![MasterHead](https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg?t=st=1704148191~exp=1704151791~hmac=262de8e3bcdee394b30e37ebee90f337192dee59fa657b2b3cfb7a5fadf37880&w=1060)
 <h1 align="center">Hi 👋, I'm Rana</h1>
 <h3 align="center">Learning the Art of Full Stack Development.</h3>
 <img align="right" alt="Coding" width="400" src="[https://gifer.com/en/LCPT](https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif)">
