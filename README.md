@@ -1,7 +1,7 @@
 ![MasterHead](https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg?t=st=1704148191~exp=1704151791~hmac=262de8e3bcdee394b30e37ebee90f337192dee59fa657b2b3cfb7a5fadf37880&w=1060)
 <h1 align="center">Hi 👋, I'm Rana</h1>
 <h3 align="center">Learning the Art of Full Stack Development.</h3>
-<img align="right" alt="Coding" width="400" src="[https://gifer.com/en/LCPT](https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif)">
+<img align="right" alt="Coding" width="400" src="https://gifer.com/en/LCPT](https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <a href="https://twitter.com/_rana_dey_" target="blank"><img src="https://img.shields.io/twitter/follow/_rana_dey_?logo=twitter&style=for-the-badge" alt="_rana_dey_" /></a> </p>
 
