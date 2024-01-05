@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/importlogic/importlogic/blob/main/header.svg" alt="my banner"></a>
+  <img src="https://github.com/ranaa-24/ranaa-24/blob/master/banner.jpg" alt="my banner"></a>
 </p>
 
 <br>
