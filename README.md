@@ -1,4 +1,7 @@
-<h1 align="center">Hey Everyone 👋, I'm Rana!</h1>
+<h1 align="center">Hey Wrold, I'm Rana!</h1>
+
+<br>
+<br>
 
 ## 😄 About Me
 - 🎓 I am a Second Year BCA student.
