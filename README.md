@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://github.com/ranaa-24/ranaa-24/blob/master/banner.jpg" alt="my banner"></a>
-</p>
-
-<br>
+<h1 align="center">Hey Everyone 👋, I'm Rana!</h1>
 
 ## 😄 About Me
 - 🎓 I am a Second Year BCA student.
@@ -36,6 +32,9 @@
 
 ## 📈 GitHub Stats 
 [![Rana’s github stats](https://github-readme-stats.vercel.app/api?username=ranaa-24&show_icons=true&theme=dark&count_private=true)](https://github.com/ranaa-24)
+<br>
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranaa-24" alt="jaiswaladi246" />
 
 <br>
 
