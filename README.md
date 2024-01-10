@@ -36,7 +36,7 @@
 [![Rana’s github stats](https://github-readme-stats.vercel.app/api?username=ranaa-24&show_icons=true&theme=dark&count_private=true)](https://github.com/ranaa-24)
 <br>
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranaa-24" alt="jaiswaladi246" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranaa-24" alt="ranaa-24" />
 
 <br>
 
