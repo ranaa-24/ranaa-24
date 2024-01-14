@@ -33,8 +33,8 @@
 <br>
 
 ## 📈 GitHub Stats 
-[![Rana’s github stats](https://github-readme-stats.vercel.app/api?username=ranaa-24&show_icons=true&theme=dark&count_private=true)](https://github.com/ranaa-24)
-<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranaa-24&theme=cobalt&hide_border=true&border_radius=5.1&card_width=496)](https://git.io/streak-stats)
 <br>
 
 <br>
