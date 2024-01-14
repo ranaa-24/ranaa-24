@@ -34,7 +34,8 @@
 
 ## 📈 GitHub Stats 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranaa-24&theme=cobalt&hide_border=true&border_radius=5.1&card_width=496)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranaa-24&theme=chartreuse-dark&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+
 <br>
 
 <br>
