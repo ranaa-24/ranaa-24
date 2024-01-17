@@ -15,6 +15,9 @@
 <br>
 
 ## 💼 Technical Skills
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=c" />
+</p>
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=cpp,java" />
