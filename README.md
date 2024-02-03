@@ -1,4 +1,4 @@
-<h1 align="center">Hello Wrold, I'm Rana!</h1>
+<h1 align="center">Hello Wrold, I'm Rana! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 <br> 
 
