@@ -3,7 +3,7 @@
 <br> 
 
 ## 😄 About Me
-- 🎓 I am a Second Year BCA student.
+- 🎓 I am a Final Year BCA student.
 - 🌱 I am currently learning JavaScript and related technologies.
 - 🔭 I am currently working on different personal projects and learning new stuff.
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
