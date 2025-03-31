@@ -9,7 +9,7 @@
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rana-dey/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rana Dey | LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/ranadey/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rana Dey | LinkedIn"/></a>
 </p>
 
 <br>
