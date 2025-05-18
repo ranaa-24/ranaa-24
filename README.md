@@ -15,23 +15,7 @@
 <br>
 
 ## 💼 Technical Skills
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=c" />
-</p>
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,java" />
-</p>
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,atom,vscode,visualstudio" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=typescript,nextjs,redux,mongodb,expressjs,bootstrap,tailwindcss,firebase,supabase,appwrite,flutter,postgresql&theme=dark&perline=6)](https://skillicons.dev)
 
 <br>
 
